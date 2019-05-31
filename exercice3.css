@@ -1,0 +1,21 @@
+#table {
+ 	border-collapse: collapse;
+ 	margin: auto;
+}
+
+#startButton {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 5em;
+}
+
+#time {
+	text-align: center;
+}
+
+td {
+	width: 5em;
+	height: 5em;
+	border: 1px solid black;
+}
